@@ -1,9 +1,9 @@
 <?php
 
-$name="niloy";
+$name="mina";
 
 if($name=="raju" or $name=="mina" or $name=="mithu"){
-	echo "Hello";
+	echo "<b>Hello</b>";
 }else{
 	echo"You are not recognized";
 }
