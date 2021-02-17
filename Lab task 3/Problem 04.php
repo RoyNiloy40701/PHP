@@ -8,5 +8,4 @@ if($name=="raju" or $name=="mina" or $name=="mithu"){
 	echo"You are not recognized";
 }
 	
-
 ?>
