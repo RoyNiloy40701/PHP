@@ -68,7 +68,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
         		
 			
 			
-			/*if(isset($_POST["submit"])){
+			if(isset($_POST["submit"])){
 			echo "Username: ".$_POST["uname"]."<br>";
 			echo "Password: ".$_POST["pass"]."<br>";
 			echo "Gender: ".$_POST["gender"]."<br>";
@@ -81,7 +81,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
 			{
 			echo $var[$i].", ";
 			} 
-			}*/
+			}
 		}
 ?>
 		
